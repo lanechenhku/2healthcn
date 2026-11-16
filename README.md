@@ -10,7 +10,7 @@ Distinct from the product platform at **[2health.ai](https://2health.ai)**, whic
 
 - `index.html` — the complete website (single file, no build step, no external dependencies, no network requests).
 - `assets/` — product screenshots shown in the Platform section (`platform-today.jpg`, `platform-intelligence.jpg`, `platform-twin.jpg`, `platform-doctor-workbench.jpg`; November 2026 build, demo accounts and demo data).
-- `favicon.ico`, `assets/favicon-32.png`, `assets/icon-512.png`, `assets/apple-touch-icon.png` — browser tab and home-screen icons (the dome mark cropped from the 2Health AI logo); `assets/og-logo.png` is the full logo for link previews.
+- `favicon.ico`, `assets/favicon-32.png`, `assets/icon-512.png`, `assets/apple-touch-icon.png` — browser tab and home-screen icons (the full 2Health AI logo fitted into a square); `assets/og-logo.png` is the full logo for link previews.
 - `manuals/` — the **customer edition** of the Product Manual (V9.06) in the app's eight languages, offered as free downloads in the Product manual section. The **investor edition is deliberately not published**: the page offers it on request by email.
 
 ## Sections
