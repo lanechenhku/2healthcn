@@ -1,17 +1,20 @@
 # 2healthcn
 
-Official corporate website for **2Health AI** (`2HEALTH AI LIMITED`, Hong Kong), served at **[2health.cn](https://2health.cn)** — the world's first **Human Digital Twin operating system** and the core AI engine for Digital Public Infrastructure of Health.
+Official corporate website for **2Health AI · 智健AI** (`2HEALTH AI LIMITED`, Hong Kong, a wholly-owned subsidiary of Gene to Health Limited 基因智健), served at **[2health.cn](https://2health.cn)**.
+
+**2Health AI: Multi-Omics Driven Clinical Care and Digital Health Agentic Twin** (智健AI：多组学驱动的临床医疗与数字健康智能共生体). Slogan: *Live Well with Your AI Health Twin* / AI数字共生，守护健康终身. Agentic Twin = Digital Twin + AI Agents (数字共生 = 数字孪生 + AI 智能体).
 
 Distinct from the product platform at **[2health.ai](https://2health.ai)**, which it links out to.
 
 ## Contents
 
 - `index.html` — the complete website (single file, no build step, no external dependencies, no network requests).
-- `assets/` — product screenshots shown in the Platform section (`platform-user.jpg`, `platform-ai-assistant.jpg`, `platform-doctor.jpg`; demo data).
+- `assets/` — product screenshots shown in the Platform section (`platform-today.jpg`, `platform-intelligence.jpg`, `platform-twin.jpg`, `platform-doctor-workbench.jpg`; November 2026 build, demo accounts and demo data).
+- `manuals/` — the **customer edition** of the Product Manual (V9.06) in the app's eight languages, offered as free downloads in the Product manual section. The **investor edition is deliberately not published**: the page offers it on request by email.
 
 ## Sections
 
-Hero · Vision & Mission · Problem (+ "Why now") · Solution · Why 2Health AI (differentiators) · Platform · Who it's for · Technology · Applications & pipeline · Traction · Market · Business model · Trust, privacy & compliance · Team & advisors · Recognition · Contact.
+Hero · Vision & Mission · Problem (+ "Why now") · Solution · Why 2Health AI (differentiators) · Platform · Who it's for · Technology · Applications & pipeline · Traction · Market · Business model · Trust, privacy & compliance · Team & advisors · Recognition · Product manual · Contact.
 
 The public content is adapted from the company's pitch and business plan.
 
@@ -36,4 +39,6 @@ The pilot / partnership / expansion items are kept **anonymized** on purpose —
 
 ## Editing
 
-Contact details (email, WhatsApp, WeChat) are taken from the pitch — update them here if you'd prefer different public channels.
+Contact details follow the business card: email lanechenhku@gmail.com first, lanechen@2health.ai second; WhatsApp and WeChat as on the card. 2health.cn is the company website, 2health.ai the product platform.
+
+Wording follows the November 2026 materials (deck, BP and the canonical company intro): company founded 2023, 2Health AI project launched 2026, HKSTP alumni, seven regional editions and eight languages, scientific supervisor Prof. Pak Sham 沈伯松.
